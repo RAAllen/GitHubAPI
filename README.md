@@ -1,6 +1,6 @@
 # _GitHubAPI_
 
-#### _This is an application that will allow a user to input a city and get a variety of different types of information about the weather there. It will use Javascript, Node, Bower and Sass.  October 15, 2016_
+#### _This is an application that will allow a user to search GitHub for specific users and return all of their repos with descriptions to the user. It will use Javascript, Node, Bower and Sass.  October 14, 2016_
 
 #### By _**Rebecca Allen**_
 
