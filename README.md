@@ -24,8 +24,8 @@
 * _The program will allow users to search for specific GitHub users and return a list of their repositories and their descriptions._
 * Example Input: "Paul Programmer".
 * Example Output: Paul Programmer's repositories:
-..php_word_finder: An application that searches an inputted sentence for an inputted word.
-..sql_salon: Uses MySQL and PHP to create an application for a salon owner to keep track of stylists and clients.
+⋅⋅* Unordered sub-list.php_word_finder: An application that searches an inputted sentence for an inputted word.
+⋅⋅* Unordered sub-list.sql_salon: Uses MySQL and PHP to create an application for a salon owner to keep track of stylists and clients.
 
 ## Support and Contact Details
 
