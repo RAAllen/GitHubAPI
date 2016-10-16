@@ -10,17 +10,37 @@
   </head>
   <body>
     <div class="container">
-      <div class="row">
-        <h1>GitHub API Gettr</h1>
-        <h3>Find the GitHub users of your dreams with less vowels.</h3>
-        <div class="col-xs-6">
-          <label for="user-name">Enter a GitHub user to search for:</label>
-          <input id="name" type="text">
-          <button id="submit">Gettr!</button>
-        </div>
-        <div id="display-user" class="col-xs-6">
-        </div>
+
+      <h1>GitHub API Gettr</h1>
+      <h3>Find the GitHub users of your dreams with less vowels!</h3>
+      <div class="form-group"
+        <label for="user-name">Enter a GitHub user to search for:</label>
+        <input id="name" type="text">
+        <button id="submit">Gettr!</button>
       </div>
+      <div id="display-user">
+        <h3 class="selectedGettr"></h3>
+        <h4 class="gettrName"></h4>
+        <h4 class="gettrEmail"></h4>
+        <h4 class="gettrAddress"></h4>
+        <table>
+         <thead>
+           <tr>
+             <th>Repo Name</th>
+             <th>Creation Date</th>
+             <th>Link</th>
+             <th>Description</th>
+           </tr>
+         </thead>
+         <tbody>
+           <tr>
+            <div class="selectedGettrRepo">
+            </div>
+           </tr>
+         </tbody>
+        </table>
+      </div>
+
     </div>
   </body>
 </html>
