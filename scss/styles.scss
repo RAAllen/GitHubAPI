@@ -1,7 +1,11 @@
-$dark = #0b2144;
-$medium = #475b7c;
-$light = #ced4dd;
-$contrast = #d0d306;
+$dark : #0b2144;
+$medium : #475b7c;
+$light : #ced4dd;
+$contrast : #d0d306;
+
+#display-user {
+  display: none;
+}
 
 td, th {
  border: 3px solid $dark;
