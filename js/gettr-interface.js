@@ -7,7 +7,7 @@ $(document).ready(function(){
     $('#search').toggle();
     var identity = $('#name').val();
     $('#name').val('');
-    currentGettr.getRepos(name);
+    currentGettr.getRepos(identity);
   });
   $('#toggle-back').click(function(){
     $('#display-user').toggle();
