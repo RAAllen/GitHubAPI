@@ -1,4 +1,6 @@
 var apiKey = require('./../.env').apiKey;
+// for the purpose of easy testing the apikey is listed here:
+// exports.apiKey = "670f79bad598107ddd6f4f6164d2d7e422b578c0";
 
 Gettr = function(){
 }
