@@ -1,6 +1,6 @@
-# _GitHubAPI_
+# GitHubAPI
 
-#### _This is an application that will allow a user to search GitHub for specific users and return all of their repos with descriptions to the user. It will use Javascript, Node, Bower and Sass.  October 14, 2016_
+#### _This is an application that will allow a user to search GitHub for specific users and return all of their repos with descriptions to the user. It will use Javascript, Node, Bower and Sass.  October 14, 2016._
 
 #### By _**Rebecca Allen**_
 
@@ -33,7 +33,7 @@ _Please contact RebeccaZarsky@gmail.com for technical questions or assistance ru
 
 ## Technologies Used
 
-This program utilizes HTML, CSS, Javascript, Sass, Bower, Node and Bootstrap.
+_This program utilizes HTML, CSS, Javascript, Sass, Bower, Node and Bootstrap._
 
 ## License
 
