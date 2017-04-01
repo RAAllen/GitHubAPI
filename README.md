@@ -10,7 +10,7 @@
 * If you have Node.js installed you may need to globally install Gulp in order to build out and serve the application. This can be done by typing "npm install -g bower gulp" in the terminal.
 * Start by opening the terminal application and typing the command "git clone https://github.com/RAAllen/GitHubAPI.git" after navigating with the "cd" command to the location you would like the project to be cloned into.
 * You will then need to get an API key from GitHub. This is a free service you simply need to create an account and generate a key at this address: "https://github.com/settings/tokens".
-* Create an additional file named ".env". Copy the following text into your .env file "exports.apiKey = "[THIS IS WHERE YOUR API KEY WILL GO]";" replacing the text in the square brackets with the API key you generated from GitHub.
+* Create an additional file named ".env". Copy the following text into your .env file "exports.apiKey = "[THIS IS WHERE YOUR API KEY WILL GO]";" replacing the square brackets and the text within them with the API key you generated from GitHub.
 * Then use the terminal application to navigate to the project directory using the "cd" command.
 * After navigating to in to the project directory type the following commands:
     1. _"npm install"._

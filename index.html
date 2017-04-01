@@ -6,13 +6,19 @@
     <link rel="stylesheet" href="build/css/styles.css">
     <script src="build/js/vendor.min.js"></script>
     <script type="text/javascript" src="build/js/app.js"></script>
-    <title>GitHub API Gettr</title>
+    <title>GitHub Gettr</title>
   </head>
   <body>
     <div class="container">
 
-      <h1>GitHub API Gettr</h1>
-      <h3>Find the GitHub users of your dreams with less vowels!</h3>
+      <div class="topnav" id="Topnav">
+        <h1>Gittr</h1>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </div>
+
+      <h3>Bringing you a comprehensive overview of individual GitHub user accounts.</h3>
 
       <div id="search" class="form-group">
         <label for="user-name">Enter a GitHub user to search for:</label>
@@ -31,8 +37,7 @@
           </div>
          </tbody>
         </table>
-        <p>Search for a new user?</p>
-        <button id="toggle-back">Gettr!</button>
+        <button id="toggle-back">Clear user display.</button>
       </div>
     </div>
   </body>
